@@ -2,7 +2,7 @@
 
 ## Description
 
-A Rock Paper Scissors Game that handles win and lose states in a Node Server and displays results on client.
+A Rock Paper Scissors Game that handles win and lose states in a Node Server and displays results on client. Deployed On Heroku.
 
 ## Work With Me
 
